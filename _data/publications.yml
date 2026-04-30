@@ -138,7 +138,7 @@
     - metabolomics
 
 - title: "Data-Driven Recommendation of Agents, Temperature, and Equivalence Ratios for Organic Synthesis"
-  authors: Sun, X., Liu, J., Majour, B., Jensen, K.F., Coley, C.W.
+  authors: Sun, X., Liu, J., Mahjour, B., Jensen, K.F., Coley, C.W.
   journal: Chem. Sci
   doi: 10.1039/D5SC04957A
   year: 2025
@@ -163,7 +163,7 @@
   preprint_year: 2025
 
 - title: "Electron flow matching for generative reaction mechanism prediction"
-  authors: Joung, J.F., Fong, M.H., Casetti, N., Liles, J.P., Dassanayake, N.S., Coley, C.W. 
+  authors: Joung, J.F., Fong, M.H., Casetti, N., Liles, J.P., Dassanayake, N.S., Coley, C.W.
   journal: Nature
   volume: 645
   pages: 115-123
@@ -295,7 +295,7 @@
     - predictive chemistry
 
 - title: "Designing single-polymer-chain nanoparticles to mimic biomolecular hydration frustration"
-  authors: Jin, T., Alexander-Katz, A., Coley, C.W. 
+  authors: Jin, T., Alexander-Katz, A., Coley, C.W.
   journal: Nat. Chem.
   year: 2025
   url: https://doi.org/10.1038/s41557-025-01760-9
@@ -348,7 +348,7 @@
     - molecular representation
 
 - title: "DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra"
-  authors: Bohde, M., Manjrekar, M., Wang, R., Ji, S., Coley, C.W. 
+  authors: Bohde, M., Manjrekar, M., Wang, R., Ji, S., Coley, C.W.
   journal: arXiv
   year: 2025
   url: https://arxiv.org/abs/2502.09571
@@ -360,7 +360,7 @@
     - metabolomics
 
 - title: "Higher-level Strategies for Computer-Aided Retrosynthesis"
-  authors: Roh, J., Joung, J.F., Yu, K., Tu, Z., Bartholomew, G.L., Santiago-Reyes, O.A., Fong, M.H., Sarpong, R., Reisman, S.E., Coley, C.W. 
+  authors: Roh, J., Joung, J.F., Yu, K., Tu, Z., Bartholomew, G.L., Santiago-Reyes, O.A., Fong, M.H., Sarpong, R., Reisman, S.E., Coley, C.W.
   journal: ChemRxiv
   year: 2025
   url: https://doi.org/10.26434/chemrxiv-2025-21zvt
@@ -415,7 +415,7 @@
     - data
 
 - title: "Comment on 'Molecular hypergraph neural networks'"
-  authors: Casetti, N., Nevatia, P., Chen, J., Schwaller, P., Coley, C.W. 
+  authors: Casetti, N., Nevatia, P., Chen, J., Schwaller, P., Coley, C.W.
   journal: J. Chem. Phys.
   year: 2024
   url: https://doi.org/10.1063/5.0239722
@@ -640,7 +640,7 @@
   themes:
     - molecular representation
     - design and optimization
-  
+
 - title: "Generating molecular fragmentation graphs with autoregressive neural networks"
   authors: Goldman, S., Li, J. Coley, C.W.
   journal: Anal. Chem.
@@ -791,7 +791,7 @@
   year: 2023
   url: https://doi.org/10.1021/acs.oprd.3c00229
   doi: 10.1021/acs.oprd.3c00229
-  themes: 
+  themes:
     - automation
 
 - title: "MIST-CF: Chemical formula inference from tandem mass spectra"
@@ -1214,7 +1214,7 @@
   year: 2022
   url: https://doi.org/10.1039/D2SC90130G
   doi: 10.1039/D2SC90130G
-  themes: 
+  themes:
     - design and optimization
 
 - title: "A graph representation of molecular ensembles for polymer property prediction"
